@@ -1,0 +1,9 @@
+Expense:  10.00
+Expense:  20.00
+Expense:  30.00
+Expense: 410.00
+Expense: 412.00
+Total: 882.00
+Max: 412.00
+Min:  10.00
+Average: 176.40
